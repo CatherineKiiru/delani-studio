@@ -11,4 +11,11 @@
 }
 .paragraph{
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
 }
