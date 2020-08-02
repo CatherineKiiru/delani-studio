@@ -26,11 +26,10 @@
 .clickable{
     display: none;
 }
-.portfolio{
+.view-overlay{
     display: flex;
     flex-flow: wrap;
     justify-content: space-around;
     justify-content: space-evenly;
-    background-color: yellow; 
-    background-color: pink;
+    
 }
